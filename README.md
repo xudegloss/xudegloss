@@ -17,8 +17,9 @@
 </div>
 
 <div align="center">
-  <h3>🛠 Tech Recode 🛠</h3>
+  <h3>📝 Tech Recode 📝</h3>
   <a href="https://tinokim.tistory.com/">✅ 개발과 데이터 분석을 배우세요</a>
+  </div>
 </div>
 
 <div align="center">
