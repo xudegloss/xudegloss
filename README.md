@@ -15,3 +15,10 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/googlemeet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white">
 </div>
+
+<div align="center">
+  <h3>😻 Most Used Langauages 😻</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xudegloss&layout=compact"><br>
+  <h3>👩‍💻 Github Stats 👩‍💻</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=xudegloss&show_icons=true">
+</div>
