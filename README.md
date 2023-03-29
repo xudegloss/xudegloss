@@ -22,7 +22,18 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/googlemeet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white">
 </div>
-
+    
+<div align="center">
+  <h3>🕵 Career 🕵</h3>
+  
+|기간|내용|설명|
+|:------:|:---:|:---:|
+|2022. 07. 25 ~ 2022. 08. 05|데이콘 Basic 쇼핑몰 지점별 매출액 분석시각화 경진대회|5 / 126|
+|2022. 08. 22 ~ 2022. 09. 02|데이콘 Basic 여행 상품 분석시각화 경진대회|2 / 94|
+|2022. 09. 19 ~ 2023. 02. 13|DSML AI/SW Developers 1기|팀 프로젝트, 개인 프로젝트, 활동 보고서 작성|
+  
+</div>
+    
 <div align="center">
   <h3>📝 Tech Recode 📝</h3>
   <a href="https://tinokim.tistory.com/">✅ 개발과 데이터 분석을 배우세요</a>
