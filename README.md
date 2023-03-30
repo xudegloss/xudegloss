@@ -47,6 +47,7 @@
 
 <div align="center">
   <h3>🥇 BOJ Profile 🥇</h3>
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xudegloss)](https://solved.ac/xudegloss/)
   
 </div>
