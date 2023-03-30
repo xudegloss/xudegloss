@@ -44,3 +44,9 @@
   <h3>👩‍💻 Github Stats 👩‍💻</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=xudegloss&show_icons=true">
 </div>
+
+<div align="center">
+  <h3>🥇 BOJ Profile 🥇</h3>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xudegloss)](https://solved.ac/xudegloss/)
+  
+</div>
