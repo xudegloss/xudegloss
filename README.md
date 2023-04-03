@@ -42,7 +42,9 @@
 
 <div align="center">
   <h3>👩‍💻 Github Stats 👩‍💻</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=xudegloss&show_icons=true">
+  
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xudegloss)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 <div align="center">
