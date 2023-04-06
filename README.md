@@ -32,6 +32,16 @@
 </div>
     
 <div align="center">
+  <h3>👏 PART-TIME JOB 👏</h3>
+  
+|기간|내용|
+|:------:|:---:|
+|2018. 03 ~ 2022. 06|(주) 해찬 장대냉면 홀 서빙 및 주방 보조 아르바이트 업무|
+|2022. 07 ~ ing|(주) 해찬 장대냉면 부점장|
+  
+</div>
+    
+<div align="center">
   <h3>📝 Tech Recode 📝</h3>
   <a href="https://tinokim.tistory.com/">✅ 개발과 데이터 분석을 배우세요</a>
   </div>
