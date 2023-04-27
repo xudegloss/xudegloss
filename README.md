@@ -28,6 +28,7 @@
 |2022. 07. 25 ~ 2022. 08. 05|데이콘 Basic 쇼핑몰 지점별 매출액 분석시각화 경진대회|5 / 126|
 |2022. 08. 22 ~ 2022. 09. 02|데이콘 Basic 여행 상품 분석시각화 경진대회|2 / 94|
 |2022. 09. 19 ~ 2023. 02. 13|DSML AI/SW Developers 1기|팀 프로젝트, 개인 프로젝트, 활동 보고서 작성 <br><a href="https://suwondsml.github.io/aiswdevelopers/">✅ suwondsml</a>|
+|2023. 05. 03 ~ 2023. 06. 28|[패스트 캠퍼스] 프론트엔드 종합반 수강|K-DIGITAL TRAINING 과정수이수|
   
 </div>
     
