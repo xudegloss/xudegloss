@@ -51,7 +51,7 @@
 <div align="center">
   <h3>👩‍💻 Github Stats 👩‍💻</h3>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xudegloss&show_icons=true&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xudegloss&show_icons=true&theme=tokyonight)
   
 </div>
 
