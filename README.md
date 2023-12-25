@@ -46,6 +46,8 @@
 <div align="center">
   <h3>📝 Tech Recode 📝</h3>
   <a href="https://tinokim.tistory.com/">✅ TechLabs</a>
+  <a href="https://www.youtube.com/channel/UC4qvsTxxxVO3BW1csmCx3dQ">✅ Nohjeans Youtube</a>
+  <a href="https://nohjeans.notion.site/5cb15223902d44609298cdea7e025bc8?v=1e8bbb39c52f4b6787a5a4164f96437c&pvs=4">✅ Nohjeans WIKI</a>
   </div>
 </div>
 
