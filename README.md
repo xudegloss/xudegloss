@@ -21,27 +21,6 @@
 </div>
     
 <div align="center">
-  <h3>🕵 Career 🕵</h3>
-  
-|기간|내용|설명|
-|:------:|:---:|:---:|
-|2023. 07. 01 ~ 2023. 12. 31|(주) 지니언스|기술지원센터 인턴|
-|2024. 01. 15 ~ ing|(주) 이글루코퍼레이션|사원|
-  
-</div>
-    
-<div align="center">
-  <h3>👏 PART-TIME JOB 👏</h3>
-  
-|기간|내용|
-|:------:|:---:|
-|2018. 03 ~ 2022. 06|(주) 해찬 장대냉면 홀 서빙 및 주방 보조 아르바이트 업무|
-|2022. 07 ~ 2023. 07. 02|(주) 해찬 장대냉면 부점장|
-|2023. 07. 03 ~ ing|(주) 해찬 장대냉면 홀 서빙 및 주방 보조 아르바이트 업무|
-  
-</div>
-    
-<div align="center">
   <h3>📝 Tech Recode 📝</h3>
   <a href="https://tinokim.tistory.com/">✅ TechLabs</a><br>
   <a href="https://www.youtube.com/channel/UC4qvsTxxxVO3BW1csmCx3dQ">❤️ Nohjeans Youtube</a><br>
